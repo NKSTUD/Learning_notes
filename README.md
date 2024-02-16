@@ -5,4 +5,4 @@ Welcome to my learning notes repository! This space is dedicated to organizing a
 
 ## Table of Contents
 - [Notes LLMs](Notes%20LLMS.pdf)
--[Oriented Object Programming](POO.md)
+- [Oriented Object Programming](POO.md)
