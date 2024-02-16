@@ -65,4 +65,5 @@ Lambo = Voiture.lamborghini()
 Porsch = Voiture.Porsch()
 Voiture.afficher_Voiture_crees()
 taxi = Taxi('taxi bleu', 'Bleu', 200)
-print(f"{taxi}\n{Voiture.lamborghini()}\n{Voiture.Porsch()}")
+print(f"{taxi}\n{Voiture.lamborghini()}\n{Voiture.Porsch()}") 
+```
