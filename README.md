@@ -5,4 +5,6 @@ Welcome to my learning notes repository! This space is dedicated to organizing a
 
 ## Table of Contents
 - [Notes LLMs](Notes%20LLMS.pdf)
+- [Transformes Architecture Explained by Umar Jamil](transformers_Umar%20Jamil.pdf)
 - [Oriented Object Programming](POO.md)
+-[Gestion des Chemins en Python](GestionDesChemins.md)
